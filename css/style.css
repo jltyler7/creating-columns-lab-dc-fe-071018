@@ -8,7 +8,7 @@ body, html {
   background-color: #666;
 }
 .container {
-  
+  column-count: 3
 }
 .container, h1 {
   width: 80%;
