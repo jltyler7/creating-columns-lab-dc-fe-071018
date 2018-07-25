@@ -10,6 +10,9 @@ body, html {
 .container {
   column-count: 3;
 }
+.small{
+  width: 33px;
+}
 .container, h1 {
   width: 80%;
   max-width: 600px;
