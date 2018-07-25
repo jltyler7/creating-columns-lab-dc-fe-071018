@@ -10,8 +10,14 @@ body, html {
 .container {
   column-count: 3;
 }
-.small{
+.small {
   width: 33px;
+}
+.medium {
+  width: 33px;
+}
+.large {
+  width: 33px; 
 }
 .container, h1 {
   width: 80%;
